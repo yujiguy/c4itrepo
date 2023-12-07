@@ -11,7 +11,9 @@ namespace App1
         {
             string word = "c4it";
             string workers = "worker1";
-            Console.WriteLine(word);
+            string workers2 = "worker1";
+            int workers1 = 5;
+            Console.WriteLine(word,workers,workers1);
             Console.ReadLine();
            
 
