@@ -10,8 +10,10 @@ namespace App1
         static void Main(string[] args)
         {
             string word = "c4it";
+            string workers = "worker1";
             Console.WriteLine(word);
             Console.ReadLine();
+           
 
         }
     }
